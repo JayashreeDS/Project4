@@ -63,3 +63,7 @@ Click "View Attendance" in the sidebar to display the Excel attendance log insid
 --NumPy
 
 --datetime – timestamp management
+
+**Sample Screenshot**
+![WhatsApp Image 2025-07-19 at 14 15 37_e2b6b979](https://github.com/user-attachments/assets/dd74f7e8-46f4-49d4-831c-a5ba346d67a8)
+
